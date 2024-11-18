@@ -57,5 +57,20 @@ thead {
     text-align: center;
 }
 .sfondoblu {
-    background-color: lightskyblue;
+    background-color: lightskyblue;   
 }
+/* fine tabella - inizio ultimo paragrafo */
+#paragrafo{
+    margin-bottom: 30px;
+}
+#titologrigio {
+    color: gray;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+/* inizio footer */
+footer {
+
+}
+    
+
