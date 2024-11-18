@@ -41,6 +41,21 @@ h1 {
 #primotesto {
     margin-bottom: 20px;
 }
+.giallo {
+    background-color: yellow;
+}
 li {
     margin-left: -25px;
+}
+/* inizio tabella */
+thead {
+    background-color: rgb(0, 163, 212);
+    color: white;
+}
+.distanza {
+    width: 480px;
+    text-align: center;
+}
+.sfondoblu {
+    background-color: lightskyblue;
 }
