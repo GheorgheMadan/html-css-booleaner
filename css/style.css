@@ -1,3 +1,4 @@
+/* posizionamento del background e titolo */
 header {
    background-image: url(../img/pattern.png);
    background-color: rgb(19, 155, 209);
@@ -7,4 +8,23 @@ header {
 #logo {
     width: 200px;
     margin-top: 68px;
+}
+/* titolo */
+h1 {
+    font-size: 70px;
+    margin-top: 12px;
+    margin-bottom: 2px;
+}
+#sottotitolo {
+    font-size: 20px;
+}
+#grigio {
+    color: grey;
+}
+#azzurro {
+    color: rgb(0, 225, 255);
+}
+#grigio_data {
+    font-size: 15px;
+    color: grey;
 }
