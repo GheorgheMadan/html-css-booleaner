@@ -13,10 +13,11 @@ header {
 h1 {
     font-size: 70px;
     margin-top: 12px;
-    margin-bottom: 2px;
+    margin-bottom: 0px;
 }
 #sottotitolo {
     font-size: 20px;
+    margin-bottom: 22px;
 }
 #grigio {
     color: grey;
@@ -27,4 +28,8 @@ h1 {
 #grigio_data {
     font-size: 15px;
     color: grey;
+}
+/* ingrandimento delle immaghini */
+.tim {
+   height: 666px;
 }
