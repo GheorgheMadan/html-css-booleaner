@@ -1,8 +1,10 @@
 header {
-   background-image: url(../img/pattern.png)
-         
+   background-image: url(../img/pattern.png);
+   background-color: rgb(19, 155, 209);
+   height: 128px;  
+   background-size: 510px;    
 }
 #logo {
-    width: 700px;
-    
+    width: 200px;
+    margin-top: 68px;
 }
