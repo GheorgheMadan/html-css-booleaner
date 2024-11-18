@@ -40,6 +40,7 @@ h1 {
 /* primo paragrafo e ul */
 #primotesto {
     margin-bottom: 20px;
+    text-align: justify;
 }
 .giallo {
     background-color: yellow;
@@ -62,15 +63,32 @@ thead {
 /* fine tabella - inizio ultimo paragrafo */
 #paragrafo{
     margin-bottom: 30px;
+    text-align: justify;
 }
+
+
+/* inizio footer */
 #titologrigio {
     color: gray;
     font-size: 20px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
+    margin-left: 10px;
 }
-/* inizio footer */
-footer {
-
+#immagine1 {
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    width: 300px;
+    margin-bottom: 20px;
+    font-size: 25px;
+    color: white;
+    text-align: center;
 }
-    
+#immagine2 {
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    width: 300px;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
 
