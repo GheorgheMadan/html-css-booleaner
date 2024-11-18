@@ -33,3 +33,14 @@ h1 {
 .tim {
    height: 666px;
 }
+#nomefoto {
+    font-size: 11px;
+    margin-bottom: 16px;
+}
+/* primo paragrafo e ul */
+#primotesto {
+    margin-bottom: 20px;
+}
+li {
+    margin-left: -25px;
+}
